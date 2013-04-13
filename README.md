@@ -1,7 +1,7 @@
 RSA
 ===
 
-My Java implementation of RSA encryption.
+rhgrant10 Java implementation of RSA encryption.
 
 This is a repository forked from rhgrant10/RSA
 
